@@ -1,0 +1,3 @@
+[submodule "ext/ox-thrift"]
+	path = ext/ox-thrift
+	url = git@github.com:adqio/ox-thrift.git
